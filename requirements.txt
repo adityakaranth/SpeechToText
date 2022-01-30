@@ -1,0 +1,3 @@
+# Tools/library needed for Speech to text
+SpeechRecognition
+Pyaudio
